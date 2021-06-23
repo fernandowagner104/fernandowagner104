@@ -3,9 +3,8 @@
 - 🌱 I'm currently learning Android with Kotlin
 - 💞️ I'm looking to collaborate on Kotlin projects
 - 📫 How to reach me :
-    LinkedIn: https://www.linkedin.com/in/fernando-wagner-assun%C3%A7%C3%A3o-teixeira-65ba07103
-  
-    Instagram: fernando_wat1 
+        - LinkedIn: https://www.linkedin.com/in/fernando-wagner-assun%C3%A7%C3%A3o-teixeira-65ba07103
+        - Instagram: fernando_wat1 
   
 
 <!---
