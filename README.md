@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on Kotlin projects
 - 📫 How to reach me : <br/> 
         - LinkedIn: https://www.linkedin.com/in/fernando-wat/ <br/>
-        - Instagram: fernando_wat1 
+        - Instagram: https://www.instagram.com/fernando_wat1/ 
         
   
 
